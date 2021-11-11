@@ -19,6 +19,7 @@ all the nice quality-of-life things like `stb serve`.
         - theme: # HTML templates
             - my-amazing-theme:
                 - [various .html pages]
+                - theme.conf
         - assets: # Static assets, SASS and JS.
             - [static assets, possibly within folders]
             - styles:
